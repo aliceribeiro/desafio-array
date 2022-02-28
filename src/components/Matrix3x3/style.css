@@ -1,0 +1,16 @@
+.matrix-3x3 {
+  width: 30vw;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.teste {
+  width: 54px;
+  height: 54px;
+  background-color: #4c4347;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

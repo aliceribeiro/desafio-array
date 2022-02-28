@@ -1,0 +1,14 @@
+.output {
+  width: 70vw;
+  display: flex;
+}
+
+.teste {
+  width: 54px;
+  height: 54px;
+  background-color: #4c4347;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
