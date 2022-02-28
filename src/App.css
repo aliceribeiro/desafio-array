@@ -24,6 +24,15 @@
   color: white;
 }
 
+.output {
+  width: 400px;
+  height: 200px;
+  background-color: #615458;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
 .App-link {
   color: #61dafb;
 }
